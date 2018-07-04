@@ -1,7 +1,7 @@
 Quest log
 ===
 
-The brave heroes Mellancore, asdf and emlun set out to kick ass and claim shiny
+The brave heroes Mellancore, asd and emlun set out to kick ass and claim shiny
 things.
 
 
